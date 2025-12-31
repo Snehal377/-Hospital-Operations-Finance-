@@ -1,4 +1,5 @@
 🏥 Hospital Operations Finance Dashboard
+
 📌 Overview  
 
 The Hospital Operations Finance Dashboard provides a comprehensive view of hospital 
@@ -12,7 +13,9 @@ financial KPIs into a single interactive view.
 
 
 
+
 📌Key Objectives
+
 
 Track overall hospital revenue and case volume
 
@@ -26,14 +29,20 @@ Compare doctor type performance using average severity
 
 Understand patient severity distribution across nationalities
 
+
 📊 Dashboard Components
+
 🔢 Key Metrics 
+
 
 Total Cases: Displays the total number of patient cases handled by the hospital.
 
 Average CMI Value: Indicates the overall case complexity and resource utilization.
 
-🧩 Filters (Interactivity)
+
+
+🧩 Filters (Interactivity):
+
 
 The dashboard supports interactive filtering by:
 
@@ -45,7 +54,11 @@ Doctor Status: Active / Inactive
 
 These filters dynamically update all visualizations for focused analysis.
 
-💰 Insurance by Revenue
+
+
+💰 Insurance by Revenue :
+
+
 
 A donut chart showing revenue contribution by insurance providers:
 
@@ -57,7 +70,9 @@ TotalHealth Insurance
 
 This helps assess payer dependency and insurance mix.
 
-🧠 Specialty-wise CMI
+
+🧠 Specialty-wise CMI :
+
 
 A horizontal bar chart representing average Case Mix Index across specialties:
 
@@ -75,7 +90,9 @@ Orthopaedics
 
 Higher CMI values indicate greater case complexity and resource intensity.
 
-🌍 Top 5 Nationality-wise Severity
+
+🌍 Top 5 Nationality-wise Severity :
+
 
 A bar chart highlighting patient severity distribution across the top nationalities:
 
@@ -91,7 +108,10 @@ USA
 
 This analysis supports demographic and risk-based planning.
 
-🏥 Specialty-wise Total Revenue
+
+
+🏥 Specialty-wise Total Revenue :
+
 
 A treemap visualization showing revenue contribution by medical specialty:
 
@@ -107,7 +127,10 @@ Cardiology
 
 Larger blocks represent higher revenue-generating specialties.
 
-📈 Monthly Revenue Trend
+
+
+📈 Monthly Revenue Trend :
+
 
 A line chart tracking revenue trends across months:
 
@@ -117,7 +140,9 @@ Highlights peak and low-performing months
 
 Supports forecasting and budgeting decisions
 
-👨‍⚕️ Doctor Type-wise Average Severity
+
+👨‍⚕️ Doctor Type-wise Average Severity:
+
 
 A horizontal bar chart comparing average patient severity by doctor type:
 
@@ -129,7 +154,9 @@ Consultant
 
 This helps evaluate workload complexity and clinical distribution.
 
-🛠️ Tools & Technologies
+
+🛠️ Tools & Technologies:
+
 
 Data Visualization Tool: Power BI / Tableau (update based on your actual tool)
 
@@ -137,7 +164,9 @@ Data Processing: SQL, Excel
 
 Analytics Skills Used: KPI analysis, trend analysis, healthcare finance analytics
 
-🚀 Use Cases
+
+🚀 Use Cases :
+
 
 Hospital financial performance monitoring
 
@@ -149,7 +178,10 @@ Strategic planning and resource allocation
 
 Executive and management reporting
 
-📌 Conclusion
+
+
+📌 Conclusion :
+
 
 The Hospital Operations Finance Dashboard delivers a unified and 
 interactive view of financial and operational hospital data.
